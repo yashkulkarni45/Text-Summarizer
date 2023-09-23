@@ -1,2 +1,4 @@
 # Text-Summarizer
-Basic Text Summarizer using the Transformers library and a sentiment analysis of the text using TextBlob.
+- Above is a Text Summarizer using the HuggingFace library Transformers.
+- The model also performs a Sentiment analysis on the summary obtained, using TextBlob
+- These two features are integrated together using a simple graphic user interface which I made using Tkinter.
